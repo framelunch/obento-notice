@@ -1,5 +1,5 @@
-# obento-cp
-obento-cp executes the registered function at high speed without using the for statement.
+# obento-notice
+
 
 ## Installation
 Yarn:
