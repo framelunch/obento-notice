@@ -1,0 +1,31 @@
+{
+  "name": "obento-notice",
+  "version": "1.0.0",
+  "description": "obento-notice executes the registered function",
+  "author": "pond6 <ikeda@framelunch.jp>",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "prepublish": "run-s lint test",
+    "docs": "jsdoc index.js",
+    "lint": "eslint index.js",
+    "test": "jest --forceExit"
+  },
+  "dependencies": {
+    "obento-cp": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "jest": "^22.4.2",
+    "jsdoc": "^3.5.5",
+    "npm-run-all": "^4.1.2"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:framelunch/obento-notice.git"
+  },
+  "homepage": "https://github.com/framelunch/obento-notice"
+}
