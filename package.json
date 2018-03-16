@@ -1,7 +1,8 @@
 {
   "name": "obento-notice",
   "version": "1.0.0",
-  "description": "obento-notice executes the registered function",
+  "description":
+    "obento-notice is a library to easily realize the observer pattern",
   "author": "pond6 <ikeda@framelunch.jp>",
   "main": "index.js",
   "license": "MIT",
