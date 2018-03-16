@@ -1,5 +1,5 @@
 # obento-notice
-
+obento-notice is a library to easily realize the observer pattern
 
 ## Installation
 Yarn:
