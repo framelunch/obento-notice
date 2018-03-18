@@ -1,6 +1,6 @@
 {
   "name": "obento-notice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description":
     "obento-notice is a library to easily realize the observer pattern",
   "author": "pond6 <ikeda@framelunch.jp>",
