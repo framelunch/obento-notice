@@ -14,7 +14,8 @@ npm install --save obento-notice
 
 ## Example
 ```javascript
-var notice = require('obento-notice');
+var Notice = require('obento-notice');
+var notice = new Notice();
 
 var fc1 = function() {
   console.log('fc1');
